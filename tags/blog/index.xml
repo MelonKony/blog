@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on My New Hugo Site</title>
-    <link>http://example.org/tags/blog/</link>
-    <description>Recent content in blog on My New Hugo Site</description>
+    <title>blog on MillMint Blog</title>
+    <link>https://blog.millmint.net/tags/blog/</link>
+    <description>Recent content in blog on MillMint Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.millmint.net/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moments in the Abyss</title>
-      <link>http://example.org/post/emoji-support/</link>
+      <link>https://blog.millmint.net/post/abyss/</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/emoji-support/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;
-&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://blog.millmint.net/post/abyss/</guid>
+      <description>Sometimes I just need a short-form space to put down some thoughts. This isn&amp;rsquo;t really a public thing. I&amp;rsquo;m not starting a newsletter. Most introspection is done introspectively. But sometimes it&amp;rsquo;s just easier to write it out.
+This week, I started waking up around 4:45am each day. It&amp;rsquo;s a better way to live. Previously, Tzipora was a late-sleeper &amp;ndash; I think, considering how much better it is living alongside the sun, it makes more sense if she&amp;rsquo;s an early riser.</description>
     </item>
     
   </channel>
