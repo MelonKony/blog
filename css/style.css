@@ -1,0 +1,21 @@
+h1 {
+	font-family: 'New York Black', serif, -apple-system-ui-serif, ui-serif; !important
+}
+h2 {
+	font-family: 'New York Heavy', serif, -apple-system-ui-serif, ui-serif; !important
+}
+h3, h4, h5, h6 {
+	font-family: 'New York Medium', serif, -apple-system-ui-serif, ui-serif; !important
+}
+.font-sans {
+	font-family: 'New York', serif, -apple-system-ui-serif, ui-serif; !important
+}
+.font-serif {
+	font-family: 'New York', serif, -apple-system-ui-serif, ui-serif; !important
+}
+.font-cursive {
+	font-family: 'New York Black', serif, -apple-system-ui-serif, ui-serif; !important
+}
+a:not(.icon), .c-rich-text {
+	font-family: 'New York', serif, -apple-system-ui-serif, ui-serif; !important
+}

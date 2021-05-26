@@ -1,35 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MillMint Blog</title>
+    <title>MillMint</title>
     <link>https://blog.millmint.net/</link>
-    <description>Recent content on MillMint Blog</description>
+    <description>Recent content on MillMint</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.millmint.net/" rel="self" type="application/rss+xml" />
-
+    <language>en</language>
+    <copyright>Copyright © 2020–2021</copyright>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     
-      <item>
-        <title>Posts</title>
-        <link>https://blog.millmint.net/post/</link>
-        <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.millmint.net/post/</guid>
-        <description>
-          
-        </description>
-      </item>
+	<atom:link href="https://blog.millmint.net/index.xml" rel="self" type="application/rss+xml" />
     
-      <item>
-        <title>Articles</title>
-        <link>https://blog.millmint.net/articles/</link>
-        <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.millmint.net/articles/</guid>
-        <description>
-          
-        </description>
-      </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.millmint.net/archives/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.millmint.net/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.millmint.net/about/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.millmint.net/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hobart Phillips&lt;/strong&gt; is an Australian illustrator and writer living and working in Tasmania. He&amp;rsquo;s 23 and likes machines, midcentury architecture and Tasmania. He&amp;rsquo;s a journalist by trade, but now works in illustration full-time.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s some things I like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Thunderbirds&lt;/em&gt; (1965 series)&lt;/li&gt;
+&lt;li&gt;Studio Ghibli (&lt;a href=&#34;https://blog.millmint.net/newsdesk/essays/ghibli&#34;&gt;obviously&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Jam_sandwich_(police_car)&#34;&gt;Jam Sandwich police livery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shōwa period Japan&lt;/li&gt;
+&lt;li&gt;Italian cars&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/0_Series_Shinkansen&#34;&gt;The Series-0 Shinkansen 🚅&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.woolworths.com.au/shop/productdetails/820196/woolworths-beef-sausage&#34;&gt;Snags&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.millmint.net/images/sailorzelda.jpg&#34;&gt;Sailor Moon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.musicauniversalis.space&#34;&gt;Mtirado&amp;rsquo;s wonderful work&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moments in Limbo</title>
+      <link>https://blog.millmint.net/post/limbo/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.millmint.net/post/limbo/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I&amp;rsquo;ve got a job.&lt;/strong&gt; That&amp;rsquo;s something, isn&amp;rsquo;t it? Being unemployed is no fun while you&amp;rsquo;re jobless, but I was pretty well off &amp;ndash; educated, freshly unemployed, in a country with a welfare system I can scrape by on. There was no real immediate threat of homelessness. Just existential concerns.&lt;/p&gt;
+&lt;p&gt;I post to Instagram now professionally. I don&amp;rsquo;t like Instagram. I enjoy my work and like my colleagues, but at the end of the day becoming employed again has only reinforced how much I enjoy working on the project and how important it is I sort out my productivity and make money with it. The alternative is working for a living &amp;ndash; and I hate working.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been about two months since my last entry, which feels like an eternity ago.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I don&amp;rsquo;t really wake up early any more. I like waking up early, but having a regular job makes it difficult now that I&amp;rsquo;ve got to cram things into my evenings.&lt;/li&gt;
+&lt;li&gt;The website has a reader mode! That&amp;rsquo;s pretty neat. I&amp;rsquo;m glad I got that figured out.&lt;/li&gt;
+&lt;li&gt;Among the many other important things I need to do, I want to make a little Vekllei guidebook and print it out. In addition, making a custom T-shirt is a cool and relatively straightforward idea. Hmm&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ve revitalised this blog with a new theme and styling, illegally using Apple&amp;rsquo;s &amp;lsquo;New York&amp;rsquo; typeface. I love it. Apple does good typography, especially when you consider Roboto or Segoe as competitors. New York is more or less a pretty serif counterpart to the sans-serif San Francisco family, which itself is a modified offshoot of Helvetica Neue.&lt;/p&gt;
+&lt;p&gt;I want to do a drawing every other day next month. Got to get busy living or get busy dying.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moments in the Abyss</title>
+      <link>https://blog.millmint.net/post/abyss/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.millmint.net/post/abyss/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Sometimes I just need a short-form space to put down some thoughts.&lt;/strong&gt; This isn’t really a public thing. I’m not starting a newsletter. Most introspection is done introspectively. But sometimes it’s just easier to write it out.&lt;/p&gt;
+&lt;p&gt;This week, I started waking up around 4:45am each day. It’s a better way to live. Previously, Tzipora was a late-sleeper – I think, considering how much better it is living alongside the sun, it makes more sense if she’s an early riser. She has that stern social conservatism about her, so it only makes sense.&lt;/p&gt;
+&lt;p&gt;Some notes to myself, while I’m here.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The comic is going pretty horribly. Not that it’s coming out bad, just that it’s not really coming out at all. Who knew it was so hard to do what people spend a lifetime doing?&lt;/li&gt;
+&lt;li&gt;I want to restart the &lt;em&gt;Atlantic Bulletin&lt;/em&gt;. Properly, as a lengthy periodical. The project gets boring otherwise. A lot of people like the academic stuff, I’m just not well-read enough to keep up.&lt;/li&gt;
+&lt;li&gt;I need to structure my days better. Actually, let’s expand on that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I had an atrocious time today trying to implement a ‘reader view’ on the website. Actually, that’s part of why I founded this blog. A whole day wasted with that, and I’m already behind on both my job-hunting and regular illustrations. I don’t even want to think about the comic.&lt;/p&gt;
+&lt;p&gt;It wasn’t all bad. I had a parmie at the pub and cooked pasta for dinner. I also took the cat to the vet – she’s doing well 🐱. I feel pretty rubbish otherwise. That’s all you can do to describe it really, and you still sound like a piece of shit saying it. There really is no way to write things down without sounding pathetically self-concerned. Maybe I’ll have to open each one of these with apologies.&lt;/p&gt;
+&lt;p&gt;I sent Captain V. &lt;em&gt;Shemozzle&lt;/em&gt;’s three albums. I love them, it reminds me of being a kid. I used to like the high-energy stuff that everyone would dance to down in Salamanca, but recently I’ve been listening to &lt;em&gt;Yahoudi’s Waltz&lt;/em&gt;. I’ll try and link that below.&lt;/p&gt;
+&lt;p&gt;&lt;audio controls=&#34;&#34; src=&#34;https://blog.millmint.net/files/Yahoudi&#39;s Waltz.mp3&#34;&gt;~Your browser does not support the ~&lt;code&gt;~audio~&lt;/code&gt;~ element.~&lt;/audio&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;E.N.&lt;/strong&gt; &lt;em&gt;I don&amp;rsquo;t know if I&amp;rsquo;ll make this a regular thing. This place is really for the in-between things that exist outside of the Project and the rest of my life.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
