@@ -19,3 +19,9 @@ h3, h4, h5, h6 {
 a:not(.icon), .c-rich-text {
 	font-family: 'New York', serif, -apple-system-ui-serif, ui-serif; !important
 }
+
+// body //
+body {
+	height: 100%;
+	width: 100%;
+}
