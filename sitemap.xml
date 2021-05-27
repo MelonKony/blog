@@ -1,63 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.millmint.net/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/archives/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/about/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/categories/blog/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/categories/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/post/limbo/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/post/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/tags/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/tags/thoughts/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/post/abyss/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/tags/index/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.millmint.net/series/</loc>
   </url>
-  
 </urlset>
